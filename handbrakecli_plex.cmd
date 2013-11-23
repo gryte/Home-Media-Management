@@ -5,13 +5,18 @@ REM	Filename:	handbrakecli_plex.cmd
 REM	Author:		Adam Linkous
 REM	email:		alinkous@gmail.com
 REM	Creation Date:	2013-07-04
-REM	Last Update	2013-07-06
+REM	Last Update	2013-11-23
 REM	Version:	0.2.3
 REM	Description:	The purpose of this script is to convert existing mkv
 REM			files into mp4 containers with H.264 encoding.
 REM			This will leverage the already existing "Plex"
 REM			preset in Handbrake which was created as per the noted
 REM			URL.
+REM
+REM			Currently this script is hard-coded for my personal use.
+REM			There are plenty of items that could be updated so it was
+REM			more agile, scalable, etc.
+REM
 REM	URL:		http://www.iskysoft.com/article/preset-option-in-handbrake-to-play-in-plex.html
 REM	OS:		Windows Vista Home Premium SP2 Version 6.0.6002
 REM	Platform:	CMD Shell Version 2
